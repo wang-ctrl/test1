@@ -2,6 +2,9 @@ package _test;
 
 public class Test {
 	public static void main(String[] args) {
-		system.out.println("123");
+		System.out.println("987");
+
+		System.out.println("123");
+
 	}
 }
